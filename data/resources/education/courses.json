@@ -1,0 +1,44 @@
+[
+  {
+    "id": "coursera-blockchain-specialization",
+    "title": "Blockchain Specialization",
+    "description": "",
+    "link": "https://www.coursera.org/specializations/blockchain",
+    "src": ""
+  },
+  {
+    "id": "ethereum-and-solidity-the-complete-developers-guide",
+    "title": "Ethereum and Solidity: The Complete Developer's Guide",
+    "description": "Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain",
+    "link": "https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/",
+    "src": ""
+  },
+  {
+    "id": "getting-started-with-ethereum-solidity-development",
+    "title": "Become a Blockchain Developer with Ethereum and Solidity",
+    "description": "",
+    "link": "https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/",
+    "src": ""
+  },
+  {
+    "id": "ivan-on-tech",
+    "title": "Ivan on Tech",
+    "description": "Become a Highly-Paid Professional in Months! 30+ Industry-Recognized Blockchain & Cryptocurrencies Certification Courses. Learn More!",
+    "link": "https://academy.ivanontech.com/",
+    "src": "/img/courses/ivan-on-tech.svg"
+  },
+  {
+    "id": "solidity-beg-exp",
+    "title": "Solidity: Beginner to Expert",
+    "description": "A full introduction into all of the core concepts in blockchain, smart contracts, and full stack blockchain development.",
+    "link": "https://youtu.be/M576WGiDBdQ",
+    "src": "/img/courses/solidity_beg_expert.png"
+  },
+  {
+    "id": "dapp-u",
+    "title": "Dapp University",
+    "description": "Learn to build decentralized apps on the Ethereum Blockchain.",
+    "link": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+    "src": "/img/courses/dapp_u.png"
+  }
+]
